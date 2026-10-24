@@ -5,6 +5,9 @@ This repository is for hose who do not own the Calude Code PRO or MAX subscripti
 
 Remove the ads and extra apps from your Android TV, Google TV or Fire TV. Then give it a clean home screen with a dock. This guide is made for beginners on Windows and works with a free tool too.
 
+![Home screen](docs/home-screen.png)
+![Before and after](docs/before-after.png)
+
 ## Credits
 
 This guide is based on the work of others. Please visit and star their repos.
@@ -45,7 +48,9 @@ For Fire TV:
 
 Menu names change a little between models. Keep the TV on for the whole job.
 
-## Step 2: Install the tools on Windows
+## Step 2: Install the tools on Windows --- not tested on MAC or Apple
+
+![Download sizes](docs/download-sizes.png)
 
 ### 2.1 Install Node.js
 1. Open nodejs.org and download the LTS version.
@@ -77,6 +82,8 @@ A version number means it works. Run the first line again if you open a new wind
 ## Step 3: Pick your coding assistant
 
 You need one assistant with shell access. Pick the one that fits you.
+
+![Choose an assistant](docs/choose-assistant.png)
 
 ### Option A: Claude Code (needs Claude Pro or API credits)
 ```
